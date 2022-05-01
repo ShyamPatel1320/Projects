@@ -1,0 +1,21 @@
+What is applets? 
+Life cycles of applets (5 cycles)
+Define TreeSet
+What is Multithreading
+Stages of thread
+What is StringBuffer
+What is reset class in java?
+What is java interface?
+Define all concepts (abstraction,encapsulation,polymorphism,inheritance) 
+Define overloading and overriding 
+What is constructor overloading?
+What is Event handling in GUI
+List various events in gui programming. 
+Different java layout manager in java
+What is wrapper class
+Types of inheritance 
+Why java doesn't support pointers? / Why pointers can't be created in java? 
+Types of exception in java
+Difference between textbox and textarea in gui programming
+What is type casting 
+What is reset class in java 
